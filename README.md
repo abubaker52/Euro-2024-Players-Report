@@ -38,6 +38,10 @@ Key Insights
         Manchester City: €0.83 billion 💰
         Manchester United: €0.66 billion 💸
 
+Report Link
+
+   https://app.powerbi.com/view?r=eyJrIjoiMWFhYzc4YWItOTc4ZC00MDNlLWE2MTctOGNkNDY5YjgyMTM3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+   
 Conclusion
 
 The UEFA Euro 2024 dataset provides a comprehensive overview of the players participating in the tournament. From age distribution to market values, this analysis sheds light on various facets of the players' profiles and their contributions to the sport. The insights derived can be valuable for enthusiasts, analysts, and stakeholders looking to understand the dynamics of player representation and performance in one of football's most prestigious tournaments.
